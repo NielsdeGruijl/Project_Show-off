@@ -28,6 +28,13 @@
 		{
 			"Name": "CommonUI",
 			"Enabled": true
+		},
+		{
+			"Name": "FieldSystemPlugin",
+			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
